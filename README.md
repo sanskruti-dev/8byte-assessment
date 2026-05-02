@@ -112,4 +112,7 @@ src/
     └── portfolio.ts             # Shared domain types
 ```
 
+Live demo Link
+https://8byte-assessment.vercel.app/
+<img width="1456" height="878" alt="image" src="https://github.com/user-attachments/assets/1cc1b948-ee60-49df-b814-c9474672f306" />
 
